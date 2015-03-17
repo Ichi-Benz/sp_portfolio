@@ -1,0 +1,19 @@
+body{
+    padding: 25px;
+}
+#subcaption{
+    height: 300px;
+    border: 1px solid #080808;
+}
+#navbar{
+    height: 100px;
+    border: 1px solid #080808;
+}
+#container{
+    height: 600px;
+    border: 1px solid #080808;
+}
+#footer{
+    height: 250px;
+    border: 1px solid #080808;
+}
